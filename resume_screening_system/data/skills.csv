@@ -1,0 +1,39 @@
+Skill,Category
+Python,Programming Language
+Java,Programming Language
+C++,Programming Language
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+Machine Learning,AI
+Deep Learning,AI
+Natural Language Processing,AI
+Computer Vision,AI
+TensorFlow,Framework
+PyTorch,Framework
+Scikit-Learn,Framework
+Pandas,Library
+NumPy,Library
+Matplotlib,Library
+Seaborn,Library
+Git,Version Control
+GitHub,Version Control
+Docker,DevOps
+Kubernetes,DevOps
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+Linux,Operating System
+FastAPI,Framework
+Flask,Framework
+Django,Framework
+React,Frontend
+Node.js,Backend
+HTML,Frontend
+CSS,Frontend
+JavaScript,Programming Language
+TypeScript,Programming Language
+Power BI,Analytics
+Tableau,Analytics
+Excel,Analytics
