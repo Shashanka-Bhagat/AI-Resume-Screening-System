@@ -1,7 +1,11 @@
+from pathlib import Path
 import pandas as pd
 
+BASE_DIR=Path(__file__).resolve().parent.parent
+
 def load_skills():
-    return pd.read_csv("data/skills.csv")
+    skills_path = BASE_DIR / "data" / "skills.csv"
+    return pd.read_csv(skills_path)
 
 def extract_skills(job_description):
     skills_df=load_skills()
